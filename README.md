@@ -220,3 +220,7 @@ Image 7.2 - Code and the chart for the similarities of modes based on the number
 Image 7.3 - Code for playlists and charts comparison for the most frequently appearing artists
 
 - So what I learn from this comparison? It appears just because Tayloy Swift is the most streamed artists, doesn't mean that she is the most streamed in others. She is the most frequent for both Spotify and Charts. She also is the most top frequent for Apple Charts. The Weeknd, Madonna, and Playboi Carti are the most frequently appearing artists in the Deezer playlists. Chris Brown, Rvssian, and Rauw Alejandro are the most frequently appearing artists in Deezer Charts. Bizarrap and Peso Pluma are the most frequently appearing artists in Apple playlists.
+
+# Extra Insights
+
+- I think for a track to be popular or catchy is by looking at the heatmaps. It appears valence_% and danceability_% has somewhat correlation on what makes a good track. Another is the valence_% and energy_% also has correlation on what makes a good track. With this, the most common denominator on what makes a good track is the valence_%. Apart from musical attributes, the popularity of the artist(s) also what makes a track popular. Examples are Taylor Swift, and The Weeknd. Their one of the most frequent artists that appear in Spotify playlist and charts, with spotify being the most used music media.
